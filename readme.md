@@ -15,6 +15,7 @@ Now that we've seen how Rails API mode works, lets build out our own Flash Cards
 
 ## Exercise
 
+Try this without the use of scaffold this time! Scaffold in API mode, with the active_model_serializers gem creates a model, migrations, a controller and the serializer. Can you make these each individually?
 #### Requirements
 
 - Create a Rails API
