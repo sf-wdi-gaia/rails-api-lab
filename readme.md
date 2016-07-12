@@ -21,7 +21,7 @@ Now that we've seen how Rails API mode works, lets build out our own Flash Cards
 - Use version control
 - Use rack-cors to allow your Angular app to access your API
 - Use curl to POST some flash cards to populate the API
-- Replace the URL in your Angular app to get data from the Angular backend
+- Replace the URL in your Angular app to get data from the Angular back end
 
 **Bonus:**
 - Add a second resource to your Angular app and API
